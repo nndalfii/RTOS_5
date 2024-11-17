@@ -112,7 +112,9 @@ Controls the Red LED:
   Check GPIO pin connections and verify power supply.
 - **Blue LED Always On:**  
   Indicates excessive contention. Adjust task delays to reduce conflicts.
-- **Build Errors:**  
+- **Build Errors:**
+   Ensure FreeRTOS and HAL libraries are correctly included in the project.
+
 
 https://github.com/user-attachments/assets/af7cf09c-6a8d-48af-ad8b-a80d5068c606
 
